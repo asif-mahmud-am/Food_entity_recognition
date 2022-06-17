@@ -4,6 +4,8 @@ The food dataset that is used in this project is collected from here: https://fd
 
 For revision data, I collected the csv from here: https://www.kaggle.com/datasets/gauravduttakiit/npr-data 
 
+However, you can find both csv's here: https://drive.google.com/drive/folders/1AoiYoUQt_JMZSj9SoiIH81QmcQonYJ4-?usp=sharing 
+
 To run this code properly, you've to use spacy version 2. The code structure of spacy3 for training custom entity model is different then this one. 
 
 The output of the code can be seen in the notebook. But for convenience I'm adding some pictures. 
